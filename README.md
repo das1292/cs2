@@ -1,5 +1,5 @@
-# Start commends
-#  -threads 9 +exec autoexec -allow_third_party_software
+# Starting commends
+-threads 9 +exec autoexec -allow_third_party_software
 
 # Video settings:
 ![image](https://github.com/user-attachments/assets/b161529c-9f2e-4b7b-a990-1b735286c8ce)
