@@ -2,7 +2,7 @@
 1440x1080 0.88
 1920x1440 0.93
 
-# Starting commends
+# Starting commends:
 -threads 9 +exec autoexec -allow_third_party_software
 
 # Video settings:
@@ -26,14 +26,14 @@
 ![image](https://github.com/user-attachments/assets/7c8b4349-2b0c-4e97-9b4b-5f2795133547)
 ![image](https://github.com/user-attachments/assets/bc1fcdb5-d8f3-4632-9b19-5c2d29d8bdc0)
 
-# Mouse and keyboard settings
+# Mouse and keyboard settings:
 ![image](https://github.com/user-attachments/assets/c4dea3de-314e-4b49-8446-81b2823b6a33)
 ![image](https://github.com/user-attachments/assets/409f7a58-7520-4fc7-b59b-6e0f170535f2)
 ![image](https://github.com/user-attachments/assets/9c6ca32f-1e59-4fba-ad3a-ccc84f16a9c5)
 ![image](https://github.com/user-attachments/assets/d1ad18b4-bfaa-4c12-8bb6-0c3a9cb45728)
 ![image](https://github.com/user-attachments/assets/250891b5-1199-4941-b472-78e9d4ad2106)
 
-# Nvidia panel settings
+# Nvidia panel settings:
 ![image](https://github.com/user-attachments/assets/de30f6b4-e94d-4cc1-b7c4-4662c9da95ab)
 ![image](https://github.com/user-attachments/assets/bcd1d088-0dbc-454d-ae15-d19ae98dfd67)
 ![image](https://github.com/user-attachments/assets/a325d4a2-ec1a-49a0-911f-8a0e82316b5b)
@@ -43,12 +43,12 @@
 ![image](https://github.com/user-attachments/assets/afc76bd6-4643-4d56-9d01-727159383fc5)
 ![image](https://github.com/user-attachments/assets/fd5f7bf1-3dea-42bf-b8ea-1c5728857a5a)
 
-# Mouse settings windows
+# Mouse settings windows:
 ![image](https://github.com/user-attachments/assets/5c5e9155-f711-4054-a968-036e399f5b45)
 ![image](https://github.com/user-attachments/assets/6bd930e0-ea74-4fd2-b8cb-f13545c0eeff)
 ![image](https://github.com/user-attachments/assets/392d4340-d256-42c5-b55e-ffbe76255648)
 
-# Philips 27M2C5500W settings
+# Philips 27M2C5500W settings:
 ![image](https://github.com/user-attachments/assets/4880cb58-e342-4757-838c-23ef2bffeb4d)
 ![image](https://github.com/user-attachments/assets/13728a81-f1c7-45db-9127-85c0a68bf700)
 ![image](https://github.com/user-attachments/assets/8c135f5f-a4a2-45b3-9bfd-f9ca8587cb5b)
