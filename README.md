@@ -28,3 +28,29 @@
 ![image](https://github.com/user-attachments/assets/9c6ca32f-1e59-4fba-ad3a-ccc84f16a9c5)
 ![image](https://github.com/user-attachments/assets/d1ad18b4-bfaa-4c12-8bb6-0c3a9cb45728)
 ![image](https://github.com/user-attachments/assets/250891b5-1199-4941-b472-78e9d4ad2106)
+
+# Nvidia panel settings
+![image](https://github.com/user-attachments/assets/de30f6b4-e94d-4cc1-b7c4-4662c9da95ab)
+![image](https://github.com/user-attachments/assets/bcd1d088-0dbc-454d-ae15-d19ae98dfd67)
+![image](https://github.com/user-attachments/assets/a325d4a2-ec1a-49a0-911f-8a0e82316b5b)
+![image](https://github.com/user-attachments/assets/33748487-e74e-4d5e-99f1-8824c2393aae)
+![image](https://github.com/user-attachments/assets/41b53150-a0d9-4a8e-bee8-86884be7bede)
+![image](https://github.com/user-attachments/assets/8c6f16da-6f5f-4808-ba92-89df3eb093a5)
+![image](https://github.com/user-attachments/assets/afc76bd6-4643-4d56-9d01-727159383fc5)
+![image](https://github.com/user-attachments/assets/fd5f7bf1-3dea-42bf-b8ea-1c5728857a5a)
+
+# Mouse settings windows
+![image](https://github.com/user-attachments/assets/5c5e9155-f711-4054-a968-036e399f5b45)
+![image](https://github.com/user-attachments/assets/6bd930e0-ea74-4fd2-b8cb-f13545c0eeff)
+![image](https://github.com/user-attachments/assets/392d4340-d256-42c5-b55e-ffbe76255648)
+
+# Philips 27M2C5500W settings
+![image](https://github.com/user-attachments/assets/4880cb58-e342-4757-838c-23ef2bffeb4d)
+![image](https://github.com/user-attachments/assets/13728a81-f1c7-45db-9127-85c0a68bf700)
+![image](https://github.com/user-attachments/assets/8c135f5f-a4a2-45b3-9bfd-f9ca8587cb5b)
+![image](https://github.com/user-attachments/assets/8b21a46f-bd99-4746-9c45-4dbce8de08a1)
+![image](https://github.com/user-attachments/assets/96ae08f8-9386-4971-8cd2-5b6aa65699f6)
+![image](https://github.com/user-attachments/assets/8c969dd2-b7ac-4a1d-9a25-d6b7f49690a7)
+![image](https://github.com/user-attachments/assets/bc422986-8ed3-43c6-a36a-455799f18e38)
+![image](https://github.com/user-attachments/assets/1171067f-3a4a-4641-8644-891185b63bc1)
+![image](https://github.com/user-attachments/assets/56e7ebb8-e12a-4770-bd45-4fff781b47fe)
