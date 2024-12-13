@@ -1,3 +1,7 @@
+# Sens:
+1440x1080 0.88
+1920x1440 0.93
+
 # Starting commends
 -threads 9 +exec autoexec -allow_third_party_software
 
